@@ -168,6 +168,6 @@
     $('#name,input[name="color"]').focus(function() {
         $('#success').html('');
     });
-
+})();
 
     
