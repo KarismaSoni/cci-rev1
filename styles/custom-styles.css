@@ -348,7 +348,10 @@ footer { margin: 50px 0 0 0; background: #eee; font-size: 14px; }
     font-size: 15px;
     width: 100%;
 }
-
+.col-space {
+  position: relative;
+  top: 18px;
+}
 .warehousing-services-para {  margin:15px;}
 /*=====  Media Queries  ======*/
 @media screen and ( max-width: 768px ) {
